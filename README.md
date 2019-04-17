@@ -87,7 +87,3 @@
     - [01_BLL](https://github.com/bsharabi/Node_JS/tree/master/Final%20full%20stack%20project/App%20Code/01_BLL)
     - [02_UIL](https://github.com/bsharabi/Node_JS/tree/master/Final%20full%20stack%20project/App%20Code/02_UIL)
       - [views](https://github.com/bsharabi/Node_JS/tree/master/Final%20full%20stack%20project/App%20Code/02_UIL/views)
-## noupload
-***
-  - [NodeJS](https://github.com/bsharabi/Node_JS/tree/master/noupload/NodeJS)
-  - [Nodejs home](https://github.com/bsharabi/Node_JS/tree/master/noupload/Nodejs%20home)
